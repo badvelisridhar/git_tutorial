@@ -1,3 +1,2 @@
 Hi there!
-This line added by dev2
-Hi - dev2
+This line added by dev1
